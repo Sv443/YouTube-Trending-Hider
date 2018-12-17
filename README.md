@@ -1,2 +1,8 @@
 # YouTube-Trending-Hider
-Hides the Trending button from the menu completely because no living being wants to see those videos anyways - New and old design compatible
+This userscript completely removes the "Trending" button from the sidemenu since nobody on earth is gonna watch those videos anyways.
+
+This script works with both the old and new YouTube design.
+
+If you want to submit a bug or a feature request, please use the [GitHub issue tracker](https://github.com/Sv443/YouTube-Trending-Hider/issues) or contact me on [Discord](https://discordapp.com/users/415597358752071693).
+
+Also please maybe take a look at my profile for a few other useful userscripts you might enjoy. Thanks :)
